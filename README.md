@@ -23,7 +23,7 @@ I'm Nicolas, student of bachelor's degree in Systems (3rd year), and I'm a Front
 </p>
 
 <h3>Top Languages Used:</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecencio)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecencio" alt="user-stats">
 
 <h3>GitHub Stats:</h3>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mecencio&show_icons=true)  
+<img src="https://github-readme-stats.vercel.app/api?username=mecencio&show_icons=true" alt="github-user-stats">
