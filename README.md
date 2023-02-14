@@ -1,6 +1,10 @@
 
 <h1 align='center'>Hi there 👋</h1>
-I'm Nicolas, student of bachelor's degree in Systems (3rd year), and I'm a Frontend React Developer. I enjoy working on new challenges, and I'm always looking to test my skills, learn new technologies, languages and tools to improve my projects and myself as a developer
+I am currently studying a Bachelor's Degree in Systems at the Faculty of Informatics of the UNLP. I've recently completed several courses on Angular and I'm eager to apply what I've learned.
+
+I love learning new languages, playing the guitar, telling stories about my cats and sharing time with my coworkers
+
+
 
 <h3>Skills and Experience:</h3>
 <p>
@@ -10,9 +14,10 @@ I'm Nicolas, student of bachelor's degree in Systems (3rd year), and I'm a Front
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
 <h3>You can find me at:</h3>
